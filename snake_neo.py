@@ -4,7 +4,7 @@
 ║          SNAKE-NEO  v2.0             ║
 ║  Python terminal snake game          ║
 ╚══════════════════════════════════════╝
-Install: https://github.com/NeoInverse/Nokia-Snake
+Install: pip install pystyle windows-curses
 Usage: python snake_neo.py
 """
 
